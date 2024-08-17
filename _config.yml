@@ -1,6 +1,9 @@
 theme: jekyll-theme-chirpy
 baseurl: ""
 lang: en
+plugins:
+  - jekyll-target-blank
+
 
 prefer_datetime_locale:
 
@@ -54,16 +57,11 @@ toc: true
 
 comments:
   active: giscus
-  disqus:
-    shortname: devcrypted
-  utterances:
-    repo: aworkaround/aworkaround.github.io
-    issue_term: # < url | pathname | title | ...>
   giscus:
     repo: aworkaround/aworkaround.github.io
-    repo_id: 842112973
+    repo_id: 843727717
     category: Comments
-    category_id: 42380524
+    category_id: 42399003
     mapping: pathname
     input_position: bottom
     lang: en

@@ -1,7 +1,7 @@
--
-  type: twitter
-  icon: 'fa-brands fa-x-twitter'
-  url: 'https://decrypted.in/twitter'
+# -
+#   type: twitter
+#   icon: 'fa-brands fa-x-twitter'
+#   url: 'https://decrypted.in/twitter'
 -
   type: youtube
   icon: 'fab fa-youtube'
@@ -14,20 +14,20 @@
   type: linkedin
   icon: 'fab fa-linkedin'
   url:  'https://decrypted.in/linkedin'
--
-  type: patreon
-  icon: 'fab fa-patreon'
-  url: 'https://decrypted.in/patreon'
--
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
+# -
+#   type: patreon
+#   icon: 'fab fa-patreon'
+#   url: 'https://decrypted.in/patreon'
+# -
+#   type: rss
+#   icon: 'fas fa-rss'
+#   noblank: true
 -
   type: email
   icon: 'fas fa-envelope'
   noblank: false
   url: 'https://decrypted.in/mail'
--
-  type: stack-overflow
-  icon: 'fab fa-stack-overflow'
-  url:  'https://decrypted.in/stack'
+# -
+#   type: stack-overflow
+#   icon: 'fab fa-stack-overflow'
+#   url:  'https://decrypted.in/stack'
