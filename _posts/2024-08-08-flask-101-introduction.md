@@ -13,10 +13,10 @@ image:
 
 # INTRODUCTION
 
-|      GitHub Repo | https://github.com/devcrypted/<repo-name>.git         |
-| YouTube Tutorial | https://youtube.com/watch?v=Gq4ZOp5coc8               |
-| YouTube Playlist | https://www.youtube.com/playlist?list=<playlist-id>   |
-|           Author | Kamal K. (devcrypted@outlook.com)                     |
+- GitHub Repo: [Flask Blog](https://github.com/devcrypted/flask-blog)
+- YouTube Tutorial: [<i class="fa-brands fa-youtube"></i> Watch on Youtube](https://youtu.be/Gq4ZOp5coc8?si=k8xt7CMK4SSsXZYB)
+- YouTube Playlist: [Web Development using Python (Flask)](https://decrypted.in/playlist-flask)
+- Author: [Kamal K.](/about/)
 
 Dignissimos quia dolorem soluta. Molestiae sapiente sequi eum iure quibusdam minima ex enim.
 Corrupti quis sit et dolor qui nam. Minima inventore molestiae quod. Accusamus cupiditate
@@ -36,7 +36,7 @@ officiis eaque et recusandae. Ullam eum sint voluptatem eius unde. Est officiis 
 
 ---
 
-# LIST OF VIDEO TUTORIALS IN THIS COURSE
+## LIST OF VIDEO TUTORIALS IN THIS COURSE
 
 01. [<i class="fa-brands fa-youtube"></i> Watch on Youtube](https://youtube.com/watch?v=jSiWuY24Ho8){:target="_blank"}  Getting Started with Flask \| Python's Framework For Web Applications
 01. [<i class="fa-brands fa-youtube"></i> Watch on Youtube](https://youtube.com/watch?v=O2u_7E-XKkU){:target="_blank"}  How to Use Poetry and HTML Templates in Flask \| Web Development using Python
@@ -59,4 +59,5 @@ officiis eaque et recusandae. Ullam eum sint voluptatem eius unde. Est officiis 
 01. [<i class="fa-brands fa-youtube"></i> Watch on Youtube](https://youtube.com/watch?v=JcaseD73Q1Q){:target="_blank"}  Search Feature in Flask Blogging Website \| Web Development using Python
 01. [<i class="fa-brands fa-youtube"></i> Watch on Youtube](https://youtube.com/watch?v=Hp3YTCeHr3E){:target="_blank"}  Deploy Flask App to Railway and PostgreSQL \| Web Development using Python
 
-# REFERENCES
+# WHAT WILL WE COVER?
+
