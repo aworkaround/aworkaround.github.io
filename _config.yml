@@ -78,7 +78,7 @@ pwa:
     enabled: false
     deny_paths:
 
-paginate: 10
+paginate: 5
 
 # ------------ The following options are not recommended to be modified ------------------
 
