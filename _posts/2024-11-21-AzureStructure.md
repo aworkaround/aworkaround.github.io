@@ -15,11 +15,11 @@ permalink: introduction-to-azure-building-blocks
 date: 2024-11-21 00:00 +0530
 categories: ["Microsoft Azure"]
 tags: ["Azure", "Management Groups (MG)", "Resource Groups (RG)", "Azure Resources", "Azure Subscription", "Azure Active Directory (AAD/Entra ID)"]
-image: https://img.youtube.com/vi/iIXTJVuSSYA/maxresdefault.jpg
+image: https://img.youtube.com/vi/cEg9INnN2p0/maxresdefault.jpg
 description: In this blog, you'll understand Azure building blocks, like Management Groups, Subscriptions, Resource Groups, Azure Active Directory (Entra ID), etc.
 
 # Variables
-video_id: iIXTJVuSSYA
+video_id: cEg9INnN2p0
 playlist_id: PL2JBbPWIA_Tq6oI8hAkJVR6Uhg5wLx9AM
 github_repo: ""
 ---
