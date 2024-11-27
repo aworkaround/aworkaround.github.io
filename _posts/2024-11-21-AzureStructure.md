@@ -10,7 +10,7 @@ youtube_logo: <i class="fa-brands fa-youtube"></i>
 
 # Should be changed according to post
 published: true
-title: "Discover How Azure is Structured & it's Building Blocks"
+title: "How Microsoft Azure is Structured? | Day 1 of Cloud Engineering"
 permalink: introduction-to-azure-building-blocks
 date: 2024-11-21 00:00 +0530
 categories: ["Microsoft Azure"]
