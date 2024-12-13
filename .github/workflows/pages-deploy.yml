@@ -42,15 +42,10 @@ jobs:
           ruby-version: 3.3
           bundler-cache: true
 
-      - name: Replace string in file
-        uses: MathieuSoysal/replace-string-in-file@v1.1.0
-        with:
-          file: _tabs/about.md
-          old-string: '__FORMKEY__'
-          new-string: ${{ secrets.FORMKEY }}
-
       - name: Build site
-        run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
+        run: |
+          sed -i 's/__FORMKEY__/${{ secrets.FORMKEY }}/g' _tabs/about.md
+          bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: "production"
 
