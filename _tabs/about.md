@@ -5,12 +5,17 @@ order: 4
 title: About Me
 ---
 
-Hi, I’m Kamal Kumar 👋—Tech enthusiast 🧑‍💻, YouTube creator 📽️, and Lead Platform Engineer. I’m passionate about code optimization, security, and automation. I’d happily spend 2 hours automating a 10-minute task 😅!
+Hi, I’m Kamal Kumar 👋 — Tech enthusiast 🧑‍💻, YouTube creator 📽️, and Lead Platform Engineer. I’m passionate about code optimization, security, and automation. I’d happily spend 2 hours automating a 10-minute reoccurring task 😅!
 
-Visit my Portfolio [@Engineeer.in](https://engineeer.in)🚀 to know more about me 😊
+Visit my Portfolio 🚀 [@Engineeer.in](https://engineeer.in) to know more about me 😊
 
 <!--Markdownlint-Disable MD033-->
-<a href='https://decrypted.in/subscribe'><i class='fa-brands fa-youtube'></i> Subscribe Us</a> on YouTube 🙌
+<a href='https://decrypted.in/subscribe'><i class='fa-brands fa-youtube'></i> Subscribe me</a> on YouTube 🙌
+
+<!--Markdownlint-Disable MD025-->
+# Hire Me
+
+📝 [My Resume](/assets/pdfs/KamalCloudEngineerResume.pdf){:target="_blank"}{:rel="noopener noreferrer"} — I typically respond to emails within 2 hours 📩
 
 <!--Markdownlint-Disable MD025-->
 # Contact Me
