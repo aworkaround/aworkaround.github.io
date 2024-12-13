@@ -74,6 +74,10 @@ jobs:
           file: _tabs/about.md
           old-string: '__FORMKEY__'
           new-string: ${{ secrets.FORMKEY }}
+      - name: LS
+        run: ls --recursive
+        env:
+          JEKYLL_ENV: "production"
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
