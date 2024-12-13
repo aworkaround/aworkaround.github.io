@@ -68,6 +68,12 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+      - name: Replace string in file
+        uses: MathieuSoysal/replace-string-in-file@v1.1.0
+        with:
+          file: _tabs\about.md
+          old-string: '__FORMKEY__'
+          new-string: ${{ secrets.FORMKEY }}
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

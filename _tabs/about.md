@@ -2,40 +2,29 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+title: About Me
 ---
 
-# **KAMAL KUMAR**
+Hi, I’m Kamal Kumar 👋—Tech enthusiast 🧑‍💻, YouTube creator 📽️, and Lead Platform Engineer. I’m passionate about code optimization, security, and automation. I’d happily spend 2 hours automating a 10-minute task 😅!
 
-[LinkedIn](https://linkedin.com/in/kamaldogra) \| [GitHub](https://github.com/aworkaround) \| [YouTube](https://youtube.com/@devcrypted) \| [Email Me](mailto:kamal242@outlook.com)
+Visit my Portfolio [@Engineeer.in](https://engineeer.in)🚀 to know more about me 😊
 
-> Engineering Lead (Cloud & DevOps) with 7.5 years specializing in Azure Cloud infrastructure and DevOps.
-Proven track record optimizing reliability, security, and cost-efficiency through automation and CI/CD.
-Skilled problem-solver in dynamic environments, fostering cross-functional collaboration for project success. Seeking to leverage expertise for organizational growth.
+<!--Markdownlint-Disable MD033-->
+<a href='https://decrypted.in/subscribe'><i class='fa-brands fa-youtube'></i> Subscribe Us</a> on YouTube 🙌
 
-## **EXPERIENCE**
+<!--Markdownlint-Disable MD025-->
+# Contact Me
 
-| **ROLE** | **CLIENT** | **DURATION** | **Location** |
-|----------|------------|--------------|--------------|
-| Engineering Lead (Cloud & DevOps) | LSEG | Jun 2022 - Current | Gurugram, Haryana - India |
-| Cloud Platform Engineer | BlackRock | Oct 2018 - Jun 2022 | Gurugram, Haryana - India |
-| Systems Engineer | Collabera | Apr 2017 - Oct 2018 | New Delhi - India |
-
-## **SKILLS**
-
-| **Expert** | **Advanced** | **Intermediate** | **Novice** |
-|----------|------------|--------------|--------------|
-| Microsoft Azure | Python | PowerShell | Golang |
-| Terraform | Ansible | Azure DevOps | Docker |
-| Kubernetes | Linux | Azure Security | Code Optimization |
-| Azure SQL | Azure KQL | Microsoft Graph | Microsoft Entra |
-
-## CERTIFICATIONS
-
-- Microsoft Certified Azure DevOps Expert
-- Microsoft Certified Azure AI Fundamentals
-- Microsoft Certified Azure Developer Associate
-- Microsoft Certified Azure Solution Architect Technologies
-- Microsoft Certified Azure Networking Associate
-- Microsoft Certified Azure Security Expert
-- GitLab Certified CI/CD Associate
-- HashiCorp Certified Terraform Associate
+<!--Markdownlint-Disable MD033-->
+<form style="display: grid; max-width: 500px" action="https://api.web3forms.com/submit" method="POST">
+    <input type="hidden" name="access_key" value="__FORMKEY__">
+    <label for="name" style="margin-top: 8px">Your Full Name</label>
+    <input type="text" name="name" placeholder="John Doe" style="margin: 3px 0; padding: 8px; background-color: transparent; border: 1px solid #a9a9a9; border-radius: 10px; outline: none" required />
+    <label for="name" style="margin-top: 8px">Your Email Address</label>
+    <input type="email" name="email" placeholder="john.doe@email.com" style="margin: 3px 0; padding: 8px; background-color: transparent; border: 1px solid #a9a9a9; border-radius: 10px; outline: none" required />
+    <label for="name" style="margin-top: 8px">Subject</label>
+    <input type="text" name="subject" placeholder="We need your help in one of our Cloud Deployments" style="margin: 3px 0; padding: 8px; background-color: transparent; border: 1px solid #a9a9a9; border-radius: 10px; outline: none" required />
+    <label for="name" style="margin-top: 8px">Your Message</label>
+    <textarea name="message" placeholder="Your Message" rows="7" style="margin: 3px 0; padding: 8px; background-color: transparent; border: 1px solid #a9a9a9; border-radius: 10px; outline: none" required></textarea>
+    <input type="submit" value="Send Message 🚀" style="margin: 8px 0; padding: 10px; background-color: #1e1e1e; border-color: #a9a9a9; border-radius: 10px; outline: none; color: white"/>
+</form>

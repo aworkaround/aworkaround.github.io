@@ -1,0 +1,5 @@
+{
+	"name": "Jekyll",
+	"image": "mcr.microsoft.com/devcontainers/jekyll:2-bullseye",
+	"postCreateCommand": "bundle exec jekyll serve --watch"
+}
