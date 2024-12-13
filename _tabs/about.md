@@ -15,7 +15,7 @@ Visit my Portfolio 🚀 [@Engineeer.in](https://engineeer.in) to know more about
 <!--Markdownlint-Disable MD025-->
 # Hire Me
 
-📝 [My Resume](/assets/pdfs/KamalCloudEngineerResume.pdf){:target="_blank"}{:rel="noopener noreferrer"} — I typically respond to emails within 2 hours 📩
+📝 [My Resume](https://decrypted.in/cv){:target="_blank"}{:rel="noopener noreferrer"} — I typically respond to emails within 2 hours 📩
 
 <!--Markdownlint-Disable MD025-->
 # Contact Me
