@@ -1,6 +1,7 @@
 {
     "cSpell.words": [
         "appdata",
+        "bootable",
         "devcrypted",
         "Engineeer",
         "FORMKEY",
@@ -9,6 +10,7 @@
         "PWIA",
         "Sqlalchemy",
         "Templating",
+        "Ventoy",
         "winget"
     ]
 }
