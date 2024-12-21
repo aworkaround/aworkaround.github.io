@@ -14,9 +14,9 @@ media_subpath: /assets/img
 date: 2024-12-22 00:00 +0530
 categories: ["Windows 11", "Desktop Setup", WSL]
 tags: ["Windows 11", "Desktop Setup", WSL]
-image: https://img.youtube.com/vi/<$video_id>/maxresdefault.jpg
+image: https://img.youtube.com/vi/randomVideoID/maxresdefault.jpg
 description: Step-by-step guide to download,  customize,  and install Windows 11. Includes script links,  PowerShell commands,  and bootable USB creation using Ventoy. Watch the video for detailed instructions!
-video_id: <$video_id>
+video_id: randomVideoID
 playlist_id: PL2JBbPWIA_Tq6oI8hAkJVR6Uhg5wLx9AM
 github_repo: .dotfiles
 ---
