@@ -79,5 +79,3 @@ Now we are ready, let's double-click on `uup_download_windows.cmd` file to start
 8. Now you can follow the prompts and continue installing Windows ([Watch my YouTube Video]({{page.video_prefix}}{{page.video_id}}))
 
 ---
-
-![](posts-img/2024-12-22-14-00-25.png)
