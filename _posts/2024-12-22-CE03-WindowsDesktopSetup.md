@@ -7,7 +7,7 @@ video_prefix: https://youtu.be/
 playlist_prefix: https://youtube.com/playlist?list=
 github_prefix: https://github.com/devcrypted/
 youtube_logo: <i class="fa-brands fa-youtube"></i>
-published: true
+published: false
 title: Developer Ready Custom Windows 11 and WSL Setup
 permalink: win11-setup
 media_subpath: /assets/img
@@ -22,7 +22,9 @@ playlist_id: PL2JBbPWIA_Tq6oI8hAkJVR6Uhg5wLx9AM
 github_repo: .dotfiles
 ---
 
-> [GitHub Repository]({{page.github_prefix}}{{page.github_repo}}) > [Watch on YouTube]({{page.video_prefix}}{{page.video_id}}) > [YouTube Playlist]({{page.playlist_prefix}}{{page.playlist_id}})
+> - [GitHub Repository]({{page.github_prefix}}{{page.github_repo}})
+> - [Watch on YouTube]({{page.video_prefix}}{{page.video_id}})
+> - [YouTube Playlist]({{page.playlist_prefix}}{{page.playlist_id}})
 
 ---
 

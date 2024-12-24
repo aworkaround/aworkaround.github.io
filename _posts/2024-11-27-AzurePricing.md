@@ -15,7 +15,7 @@ permalink: azure-pricing-explained
 date: 2024-11-27 00:00 +0530
 categories: ["Microsoft Azure"]
 tags: ["Azure", "Azure Pricing", "Azure Free Trial", "Azure Portal Basics"]
-image: https://img.youtube.com/vi/I7dW1ovCtzI/maxresdefault.jpg
+image: headers/azure-pricing-explained.png
 description: Explore Azure Free Trial, Always Free Services, 12-Month Free Services, and learn to create a free account while using the Pricing Calculator to optimize costs.
 
 # Variables
