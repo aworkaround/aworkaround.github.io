@@ -6,7 +6,6 @@ pin: false
 video_prefix: https://youtu.be/
 playlist_prefix: https://youtube.com/playlist?list=
 github_prefix: https://github.com/devcrypted/
-youtube_logo: <i class="fa-brands fa-youtube"></i>
 
 # Should be changed according to post
 published: true
