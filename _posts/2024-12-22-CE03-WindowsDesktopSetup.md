@@ -1,25 +1,23 @@
 ---
 layout: post
-authors:
-  - devcrypted
+authors: ["devcrypted"]
 pin: false
 video_prefix: https://youtu.be/
 playlist_prefix: https://youtube.com/playlist?list=
 github_prefix: https://github.com/devcrypted/
-youtube_logo: <i class="fa-brands fa-youtube"></i>
-published: false
+published: true
 title: Developer Ready Custom Windows 11 and WSL Setup
 permalink: win11-setup
 media_subpath: /assets/img
 date: 2024-12-22 00:00 +0530
 categories: ["Windows 11", "Desktop Setup", "WSL"]
 tags: ["Windows 11", "Desktop Setup", "WSL"]
-image: https://img.youtube.com/vi/randomVideoID/maxresdefault.jpg
+image: headers/azure-pricing-explained.png
 description: Step-by-step guide to download, customize, and install Windows 11. Includes script links,
 PowerShell commands, and bootable USB creation using Ventoy. Watch the video for detailed instructions!
 video_id: randomVideoID
 playlist_id: PL2JBbPWIA_Tq6oI8hAkJVR6Uhg5wLx9AM
-github_repo: .dotfiles
+github_repo: dotfiles
 ---
 
 > - [GitHub Repository]({{page.github_prefix}}{{page.github_repo}})
