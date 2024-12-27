@@ -12,7 +12,7 @@ media_subpath: /assets/img
 date: 2024-12-22 00:00 +0530
 categories: ["Windows 11", "Desktop Setup", "WSL"]
 tags: ["Windows 11", "Desktop Setup", "WSL"]
-image: headers/azure-pricing-explained.png
+image: headers/desktop-setup.png
 description: This blog will help you to configure your Windows 11 and WSL without having to manually do a lot of things. We have scripts for setting Windows 11 and WSL. Please follow the document.
 video_id: randomVideoID
 playlist_id: PL2JBbPWIA_Tq6oI8hAkJVR6Uhg5wLx9AM
