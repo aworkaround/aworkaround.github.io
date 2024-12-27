@@ -4,7 +4,7 @@ authors: ["devcrypted"]
 pin: false
 video_prefix: https://youtu.be/
 playlist_prefix: https://youtube.com/playlist?list=
-github_prefix: https://github.com/aworaround/
+github_prefix: https://github.com/aworkaround/
 published: true
 title: Configure Windows 11 (with WSL) as a PRO
 permalink: desktop-setup
@@ -64,9 +64,9 @@ github_repo: dotfiles
 
 ```bash
 sudo apt update && sudo apt upgrade -y && sudo apt install git -y
-git clone https://github.com/aworkaround/dotfiles.git ~/dotfiles
+git clone https://github.com/aworkaround/dotfiles.git ~/dotfiles ## Change my repo with your forked repo
 cd ~/dotfiles
-chmod +x init.sh
-sudo ./init.sh
+chmod +x installer.sh
+sudo ./installer.sh
 
 ```
